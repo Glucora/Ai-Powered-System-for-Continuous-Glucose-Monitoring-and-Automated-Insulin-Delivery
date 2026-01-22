@@ -125,6 +125,14 @@ The dashboard is the core of the application. It provides a consolidated view of
 * System status and AI prediction indicators
 
 All critical information is available on a single screen to minimize navigation and allow users to quickly understand their condition.
+
+**AI Prediction & Glucose Trend Analysis**
+This screen focuses on AI-driven glucose forecasting. Predicted future glucose levels are displayed alongside historical readings, allowing users to compare current values with expected trends and identify potential risks early.
+
+The model operates in the background, while the UI translates predictions into an understandable visual format.
+
+**Recommendations & Insights**
+Based on the predicted glucose trajectory, the system generates contextual insights and recommendations. This screen explains why an alert or recommendation was generated, helping users understand the reasoning behind the AI output.
 ![Various Homepage Screenshots](Glucora%20UI/App%20interfaces.png)
 
 
