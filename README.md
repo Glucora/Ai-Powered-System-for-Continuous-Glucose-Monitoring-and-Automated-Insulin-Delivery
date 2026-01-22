@@ -195,4 +195,4 @@ This project is developed as part of a graduation project in Artificial Intellig
 
 Glucora is a research and educational project. It is not intended to replace professional medical advice or clinical decision-making.
 
-```
+
