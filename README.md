@@ -117,6 +117,18 @@ The sign-in screen allows returning users to securely access their account. The 
 The sign-up screen enables new users to create an account and enter essential information required for personalized glucose monitoring and prediction.
 ![Sign-up Screenshot](Glucora%20UI/Sign%20up.png)
 
+**Main Application Interface (Dashboard)**
+The dashboard is the core of the application. It provides a consolidated view of:
+
+* Current glucose level
+
+* Recent glucose trends
+
+* System status and AI prediction indicators
+
+All critical information is available on a single screen to minimize navigation and allow users to quickly understand their condition.
+![Sign-up Screenshot](Glucora%20UI/App%20interfaces.png)
+
 > All screenshots are available in the `Glucora UI` directory and are intended to demonstrate the proposed user experience rather than a fully implemented application.
 
 ---
