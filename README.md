@@ -105,17 +105,17 @@ The UI is designed with simplicity and clarity in mind, focusing on ease of use 
 Below are sample screenshots from the mobile application mockups included in this repository:
 
 **Splash Screen**
-
 The splash screen represents the initial launch of the application. It establishes the application identity and serves as a brief transition while the system prepares user data and AI services.
-![Splash Screen Screenshot](Glucora%20UI/Splash Screen.png)
 
-**Glucose Trends & Prediction Screen**
+![Splash Screen Screenshot](Glucora%20UI/Splash%20Screen.png)
 
-![Prediction Screenshot](Glucora%20UI/prediction.png)
+**User Authentication – Sign In**
+The sign-in screen allows returning users to securely access their account. The design is intentionally simple to reduce friction and allow fast access to glucose insights.
+![Sing-in Screenshot](Glucora%20UI/Signin.png)
 
-**Alerts & Insights**
-
-![Alerts Screenshot](Glucora%20UI/alerts.png)
+**User Authentication – Sign Up**
+The sign-up screen enables new users to create an account and enter essential information required for personalized glucose monitoring and prediction.
+![Sign-up Screenshot](Glucora%20UI/Sign%20up.png)
 
 > All screenshots are available in the `Glucora UI` directory and are intended to demonstrate the proposed user experience rather than a fully implemented application.
 
