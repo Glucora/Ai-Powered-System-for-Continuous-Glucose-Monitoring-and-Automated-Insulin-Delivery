@@ -86,33 +86,6 @@ Ai-Powered-System-for-Continuous-Glucose-Monitoring-and-Automated-Insulin-Delive
 │
 ├── LICENSE
 └── README.md
-```
-
-Glucora/
-│
-├── models/
-│   ├── training notebooks
-│   ├── evaluation scripts
-│   └── saved model files
-│
-├── data/
-│   ├── raw CGM data
-│   └── preprocessed datasets
-│
-├── diagrams/
-│   ├── UML diagrams
-│   ├── sequence diagrams
-│   └── system architecture
-│
-├── Glucora UI/
-│   ├── mobile app mockups
-│   ├── screen designs
-│   └── user flow illustrations
-│
-├── README.md
-└── requirements.txt
-
-```
 
 ---
 
