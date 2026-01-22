@@ -127,12 +127,24 @@ The dashboard is the core of the application. It provides a consolidated view of
 * System status and AI prediction indicators
 
 All critical information is available on a single screen to minimize navigation and allow users to quickly understand their condition.
-![Sign-up Screenshot](Glucora%20UI/App%20interfaces.png)
+![Various Homepage Screenshots](Glucora%20UI/App%20interfaces.png)
+
+
+**User Profile**
+The profile screen allows users to view and manage their personal information. This data supports personalization of predictions and ensures the AI model aligns with individual user characteristics.
+![User Profile Screenshot](Glucora%20UI/Profile.png)
+
+
+**Notifications & Alerts**
+The notifications screen displays AI-generated alerts related to potential hypo- or hyperglycemic events. Each notification is concise, informative, and action-oriented, clearly communicating the detected issue and its urgency.
+
+Notifications are triggered by comparing real-time glucose readings with predicted future values.
+![Alerts](Glucora%20UI/Notifications.png)
 
 > All screenshots are available in the `Glucora UI` directory and are intended to demonstrate the proposed user experience rather than a fully implemented application.
 
 ---
-```
+
 ## How the System Works (High Level Flow)
 
 1. CGM sensor generates glucose readings
