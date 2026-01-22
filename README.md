@@ -88,7 +88,7 @@ Ai-Powered-System-for-Continuous-Glucose-Monitoring-and-Automated-Insulin-Delive
 └── README.md
 
 ---
-
+```
 ## Glucora UI (Mockups)
 
 The `Glucora UI` folder showcases the mobile application mockups designed for this project. These screens demonstrate:
@@ -119,7 +119,7 @@ Below are sample screenshots from the mobile application mockups included in thi
 > All screenshots are available in the `Glucora UI` directory and are intended to demonstrate the proposed user experience rather than a fully implemented application.
 
 ---
-
+```
 ## How the System Works (High Level Flow)
 
 1. CGM sensor generates glucose readings
