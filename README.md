@@ -86,8 +86,6 @@ Ai-Powered-System-for-Continuous-Glucose-Monitoring-and-Automated-Insulin-Delive
 │
 ├── LICENSE
 └── README.md
-
----
 ```
 ## Glucora UI (Mockups)
 
