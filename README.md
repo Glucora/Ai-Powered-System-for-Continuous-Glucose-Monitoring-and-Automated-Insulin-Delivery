@@ -104,9 +104,10 @@ The UI is designed with simplicity and clarity in mind, focusing on ease of use 
 
 Below are sample screenshots from the mobile application mockups included in this repository:
 
-**Dashboard & Glucose Overview**
+**Splash Screen**
 
-![Dashboard Screenshot](Glucora%20UI/dashboard.png)
+The splash screen represents the initial launch of the application. It establishes the application identity and serves as a brief transition while the system prepares user data and AI services.
+![Splash Screen Screenshot](Glucora%20UI/Splash Screen.png)
 
 **Glucose Trends & Prediction Screen**
 
