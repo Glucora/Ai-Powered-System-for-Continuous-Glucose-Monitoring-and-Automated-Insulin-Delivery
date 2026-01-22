@@ -17,7 +17,7 @@ As a result, I switched to a classical ML Regressor, specifically, the XGBoostRe
 First things first, we start with better pre-processing that Has the Model in mind extracting rolling mean, rolling std. dev., lagged features, IOB*, COB*, Day/Night and other Time based features info for Dawn phenomenon detection, etc... Right after that we start Training on the ```XGBoostRegressor``` regression model with the following model parameters:
 
 ### Model parameters
-```json
+```
 {
     n_estimators=1000,       
     max_depth=6,             
