@@ -191,9 +191,9 @@ This project is developed as part of a graduation project in Artificial Intellig
 
 - [@Nouran Hassan](https://github.com/nouran246) – Artificial Intelligence Student
 - [@Malak Mohamed](https://github.com/MalakMohameed) – Artificial Intelligence Student
-- [@Malak Mohamed](https://github.com/Yahia-Elshobokshy) – Artificial Intelligence Student
+- [@Yahia Elshobokshy](https://github.com/Yahia-Elshobokshy) – Artificial Intelligence Student
 - [@Roaa Khaled](https://github.com/Rowlkh) – Artificial Intelligence Student
-- Daniel Michel – Artificial Intelligence Student
+- [@Daniel Michel](https://github.com/DanielMichel305) – Artificial Intelligence Student
 
 ---
 
