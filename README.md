@@ -189,9 +189,9 @@ This project is developed as part of a graduation project in Artificial Intellig
 
 ## Authors
 
-- Malak Mohamed Abd-EL Razeq – Artificial Intelligence Student
+- [@Nouran Hassan](https://github.com/nouran246) – Artificial Intelligence Student
+- [@Malak Mohamed](https://github.com/MalakMohameed) – Artificial Intelligence Student
 - Yahia Tamer – Artificial Intelligence Student
-- Nouran Hassan – Artificial Intelligence Student
 - Roaa Khaled – Artificial Intelligence Student
 - Daniel Michel – Artificial Intelligence Student
 
