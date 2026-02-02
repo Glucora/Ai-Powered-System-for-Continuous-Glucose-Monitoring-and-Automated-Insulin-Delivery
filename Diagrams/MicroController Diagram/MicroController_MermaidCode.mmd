@@ -1,0 +1,28 @@
+flowchart TD
+
+A[CGM Sensor]
+
+subgraph ESP32_MICRO["ESP32 Micro-Controller"]
+direction TD
+B[Digital Low-Pass Filtering -<br/>Smoothing Techniques -<br/>Calibration & Drift Correction -<br/>Normalization -<br/>Detection]
+C[Dose Prediction LSTM Model]
+D[Safety Check Module]
+E[Validates Predicted Dose]
+F[Approved Dose]
+
+B --> C
+C --> D
+D --> E
+E --> F
+end
+
+G[Real-time Force-based Algorithm]
+H[Firebase Cloud]
+I[Piezo-electric Insulin Micro-pump]
+J[Companion App<br/>Real-time Alerts & History]
+
+A --> B
+F --> G
+F --> H
+G --> I
+H --> J
